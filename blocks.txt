@@ -1,0 +1,7 @@
+water, sprites/water.png, 1
+grass, sprites/grass.png, 2
+stone, sprites/stone.png, 3
+very-low-sand-water, sprites/verylowsandwater.png,  4
+sand-water, sprites/sandwater.png,  5
+low-sand-water, sprites/lowsandwater.png, 6
+sand, sprites/sand.png, 7
