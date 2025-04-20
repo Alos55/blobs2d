@@ -1,5 +1,4 @@
 # blobs2d
-i hate github
 source code up there is outdated you can find source code at releases
 # features
 saving,
