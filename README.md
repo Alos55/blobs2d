@@ -1,5 +1,6 @@
 # blobs2d
-basic grid script written in pygame(wont do anything except fix reported issues(wont accept any commits by strangers. i think the commits are the code change thingy which i dont want. this is just for backups of the project)
+i hate github
+source code up there is outdated you can find source code at releases
 # features
 saving,
 loading custom maps ,
